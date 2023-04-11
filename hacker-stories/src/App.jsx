@@ -4,6 +4,7 @@ function App(){
 const welcome = {
   greeting: 'Hello',
   title: 'React'
+  
 
 }
 
