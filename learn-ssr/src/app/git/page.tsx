@@ -6,7 +6,7 @@ const page = () => {
       <h1>This is a server component</h1>
       <p className="bg-zinc-100">
         This is a server component, which means it is rendered on the server
-        sides.
+        side.
       </p>
     </div>
   );
