@@ -1,4 +1,3 @@
-import 'server-only';
 import React from 'react';
 import { readFile } from 'fs/promises';
 import ClientComponent from './test/ClientComponent';
