@@ -18,7 +18,7 @@ const page = () => {
                 Trigger my task
             </button>
 
-            {/* <ClientComponent data="hi" data1="hello" /> */}
+            <ClientComponent data="hi" data1="hello" />
         </>
 
     )
