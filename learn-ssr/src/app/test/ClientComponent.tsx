@@ -27,7 +27,7 @@ const ClientComponent = (props: Props): JSX.Element => {
 
     const sayHello = () => {
         alert("Hello!")
-        createUser({ firstName: "John", lastName: "Doe", email: "sdadadasd@asa.com", password: "dsadasdasda", confirmPassword: "dsadasdasda", terms: true })
+        createUser({ firstName: "John", lastName: "Doe", email: "sdadadasd@asa.com", password: "rishi", confirmPassword: "Sharma", terms: true })
     };
 
 
